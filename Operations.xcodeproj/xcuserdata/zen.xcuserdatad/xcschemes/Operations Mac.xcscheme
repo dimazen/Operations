@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ADC07B541BC6BF94002586FD"
-               BuildableName = "Operations Mac.framework"
+               BuildableName = "Operations.framework"
                BlueprintName = "Operations Mac"
                ReferencedContainer = "container:Operations.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ADC07B541BC6BF94002586FD"
-            BuildableName = "Operations Mac.framework"
+            BuildableName = "Operations.framework"
             BlueprintName = "Operations Mac"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ADC07B541BC6BF94002586FD"
-            BuildableName = "Operations Mac.framework"
+            BuildableName = "Operations.framework"
             BlueprintName = "Operations Mac"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>
